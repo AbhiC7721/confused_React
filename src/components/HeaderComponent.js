@@ -114,7 +114,7 @@ class Header extends Component {
                 </Modal>           
             </React.Fragment>
         );
-    }toggleModal
+    }
 }
 
 export default Header;
